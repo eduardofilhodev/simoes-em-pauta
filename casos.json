@@ -1,0 +1,198 @@
+{
+  "config": {
+    "nome": "Simões em Pauta",
+    "grupo": "Jovens Comunicadores",
+    "linkApp": "",
+    "whatsappSugestoes": ""
+  },
+  "casos": [
+    {
+      "id": "quilombo-rio-dos-macacos",
+      "tipo": "problema",
+      "titulo": "Quilombo Rio dos Macacos: a terra veio, o resto não",
+      "local": "Rio dos Macacos, ao lado da Base Naval",
+      "resumo": "Uma comunidade quilombola com mais de 200 anos disputa terra e água com a Marinha desde os anos 1960. Recebeu o título da terra em 2020, mas o rio ficou de fora e o principal acesso ao quilombo ainda passa pela portaria militar. Cerca de 135 famílias vivem sem estrada própria e sem água encanada.",
+      "pergunta": "Seis anos depois da titulação, o que mudou de fato na vida de quem vive no Quilombo Rio dos Macacos?",
+      "imagem": "",
+      "destaque": true,
+      "atualizado": "2026-10-23",
+      "linha": [
+        {
+          "quando": "Há mais de 200 anos",
+          "texto": "A comunidade se forma com descendentes de pessoas escravizadas nas fazendas de cana que abasteciam o Engenho de Aratu. Vive da pesca, da agricultura e do rio."
+        },
+        {
+          "quando": "Anos 1950–60",
+          "texto": "A área da antiga Fazenda dos Macacos passa por desapropriação e doações até chegar à Marinha. Quem já morava ali não foi considerado."
+        },
+        {
+          "quando": "1961",
+          "texto": "A Marinha constrói uma barragem no Rio dos Macacos."
+        },
+        {
+          "quando": "1969",
+          "texto": "É construída a Base Naval de Aratu. A comunidade passa a ter restrições para entrar, sair e usar o rio, e denuncia a derrubada de terreiros de candomblé."
+        },
+        {
+          "quando": "2014",
+          "texto": "O Incra publica o relatório que reconhece e delimita o território quilombola: 301 hectares."
+        },
+        {
+          "quando": "2019",
+          "texto": "Uma liderança idosa da comunidade é encontrada morta em área controlada pela Marinha. A autoria não foi esclarecida."
+        },
+        {
+          "quando": "2020",
+          "texto": "A comunidade recebe o título de cerca de 100 hectares, um terço do que reivindicava. O rio e a barragem ficam do lado da Marinha. No mesmo ano, a Comissão Interamericana de Direitos Humanos pede ao Brasil que proteja a vida dos moradores."
+        },
+        {
+          "quando": "2024",
+          "texto": "A Marinha informa que negocia o uso do rio na Câmara de Conciliação da Administração Federal. Não há desfecho público."
+        },
+        {
+          "quando": "2025",
+          "texto": "MPF e MPBA vistoriam as casas construídas pelo governo estadual no quilombo e encontram falhas na fundação e nos pilares."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "A estrada independente foi abandonada pela empresa contratada. Sem estrada, os poços de água não saem do papel, e a entrada principal segue pela área militar."
+        }
+      ],
+      "consequencias": [
+        "Cerca de 135 famílias sem água encanada e sem estrada própria.",
+        "Crianças andam na lama até o ponto do ônibus escolar.",
+        "Perda da pesca e da agricultura, que eram o sustento da comunidade.",
+        "Restrição a práticas culturais e religiosas de matriz africana.",
+        "Dependência da portaria militar para entrar, receber visitas e levar material de construção."
+      ],
+      "responsaveis": [
+        "Marinha (2º Distrito Naval)",
+        "Incra / Governo Federal",
+        "Seinfra (estrada)",
+        "Cerb (água e poços)",
+        "CAR/SDR (casas)",
+        "Sepromi (igualdade racial)",
+        "Prefeitura de Simões Filho",
+        "MPF, MPBA e DPU (fiscalização)"
+      ],
+      "acoes": [
+        {
+          "titulo": "Cobre o governo da Bahia",
+          "texto": "Registre uma manifestação na Ouvidoria-Geral do Estado perguntando sobre a estrada e os poços do quilombo.",
+          "link": ""
+        },
+        {
+          "titulo": "Peça informação oficial",
+          "texto": "Pela Lei de Acesso à Informação, qualquer pessoa pode pedir ao Incra e à Marinha dados sobre o território e a negociação do rio, no portal Fala.BR.",
+          "link": "https://falabr.cgu.gov.br"
+        },
+        {
+          "titulo": "Leve o caso ao Ministério Público Federal",
+          "texto": "O MPF acompanha o conflito em inquérito civil. Novas denúncias podem ser enviadas pelo MPF Serviços.",
+          "link": "https://www.mpf.mp.br/mpfservicos"
+        },
+        {
+          "titulo": "Espalhe a história",
+          "texto": "Compartilhe este caso. Pouca gente na própria cidade conhece a luta do quilombo.",
+          "link": ""
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "DPU: comunidade relata problemas de acesso a serviços públicos",
+          "url": "https://direitoshumanos.dpu.def.br/rio-dos-macacos-comunidade-quilombola-da-bahia-relata-problemas-de-acesso-a-servicos-publicos/"
+        },
+        {
+          "nome": "Marinha do Brasil: nota à imprensa sobre a comunidade",
+          "url": "https://assets.marinha.mil.br/com2dn/sites/www.marinha.mil.br.com2dn/files/arquivos/nota_a_imprensa_12mai_comunidade_quilombola_rio_dos_macacos.pdf"
+        },
+        {
+          "nome": "Fiocruz: Mapa de Conflitos, Rio dos Macacos",
+          "url": "https://mapadeconflitos.ensp.fiocruz.br/conflito/ba-quilombolas-de-rio-dos-macacos-lutam-por-titulacao-definitiva-de-territorio-de-direito/"
+        },
+        {
+          "nome": "Correio Nagô: quilombolas lutam por acesso à água",
+          "url": "https://correionago.com.br/quilombolas-pedem-socorro-moradores-do-rio-dos-macacos-lutam-para-ter-acesso-a-agua-em-suas-terras/"
+        },
+        {
+          "nome": "Brasil de Fato: liderança quilombola encontrada morta (2019)",
+          "url": "https://www.brasildefato.com.br/2019/11/27/lider-quilombola-e-encontrado-morto-em-area-controlada-pela-marinha/"
+        },
+        {
+          "nome": "Revista Afirmativa: insegurança após assassinato",
+          "url": "https://revistaafirmativa.com.br/4642-2/"
+        },
+        {
+          "nome": "Monografia UFC (2013): silenciamento do quilombo na imprensa baiana",
+          "url": "https://repositorio.ufc.br/handle/riufc/26644"
+        },
+        {
+          "nome": "Tese UnB (2019): Quilombo de Rio dos Macacos",
+          "url": "https://repositorio.unb.br/bitstream/10482/36028/1/2019_JohnatanRazenFerreiraGuimar%C3%A3es.pdf"
+        }
+      ]
+    },
+    {
+      "id": "km-30-chuvas-e-encostas",
+      "tipo": "problema",
+      "titulo": "Km 30: quando a chuva chega, a encosta desce",
+      "local": "Km 30 e Canal da Muriqueira",
+      "resumo": "O Km 30 é cercado por morros e fica às margens do Canal da Muriqueira. A cada chuva forte, aparecem rachaduras, deslizamentos e muros caídos. O Serviço Geológico do Brasil já mapeou áreas de alto e muito alto risco na cidade.",
+      "pergunta": "O plano de redução de riscos chegou até quem mora na encosta?",
+      "imagem": "",
+      "destaque": false,
+      "atualizado": "2026-10-23",
+      "linha": [
+        {
+          "quando": "Fev 2024",
+          "texto": "Uma chuva forte gera cerca de 70 pedidos de vistoria à Defesa Civil, com rachaduras, infiltrações, deslizamentos e muros caídos. O Canal da Muriqueira transborda."
+        },
+        {
+          "quando": "Mai 2025",
+          "texto": "Uma escadaria desaba e seis famílias ficam desabrigadas."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "Simões Filho foi selecionada para um projeto nacional de redução de riscos de desastres naturais."
+        }
+      ],
+      "consequencias": [
+        "Casas com rachaduras e risco de desabamento.",
+        "Famílias desabrigadas a cada temporada de chuva.",
+        "Ruas e acessos bloqueados quando o canal transborda."
+      ],
+      "responsaveis": [
+        "Defesa Civil de Simões Filho",
+        "Secretaria de Infraestrutura",
+        "Prefeitura de Simões Filho"
+      ],
+      "acoes": [
+        {
+          "titulo": "Peça vistoria",
+          "texto": "Se a sua casa tem rachadura nova, infiltração ou muro cedendo, ligue 199 para a Defesa Civil.",
+          "link": ""
+        },
+        {
+          "titulo": "Receba alertas no celular",
+          "texto": "Envie o seu CEP por SMS para 40199 e receba avisos da Defesa Civil antes das chuvas fortes.",
+          "link": ""
+        },
+        {
+          "titulo": "Espalhe a informação",
+          "texto": "Compartilhe este caso com quem mora em encosta ou perto do canal.",
+          "link": ""
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "Defesa Civil de Simões Filho",
+          "url": ""
+        },
+        {
+          "nome": "Serviço Geológico do Brasil (CPRM): setorização de áreas de risco",
+          "url": ""
+        }
+      ]
+    }
+  ]
+}
