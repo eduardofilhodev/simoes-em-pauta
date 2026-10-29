@@ -193,6 +193,352 @@
           "url": ""
         }
       ]
+    },
+    {
+      "id": "polo-industrial-cia-trabalho",
+      "tipo": "potencia",
+      "titulo": "Polo Industrial do CIA: a força do trabalho em Simões Filho",
+      "local": "Centro Industrial de Aratu (CIA Sul)",
+      "resumo": "O Centro Industrial de Aratu reúne cerca de 400 empresas e 15 mil empregos diretos entre Simões Filho e Candeias, segundo o governo da Bahia. Uma das maiores fontes de trabalho da Região Metropolitana fica dentro da cidade. A pauta investiga se essas vagas chegam, de fato, a quem mora em Simões Filho.",
+      "pergunta": "Como as oportunidades de trabalho geradas pelo Polo Industrial do CIA podem chegar de forma mais direta aos moradores de Simões Filho?",
+      "imagem": "",
+      "destaque": false,
+      "atualizado": "2026-10-29",
+      "linha": [
+        {
+          "quando": "1967",
+          "texto": "O Centro Industrial de Aratu começa a operar, dividido entre o CIA Sul, em Simões Filho, e o CIA Norte, em Candeias. O objetivo era industrializar a Região Metropolitana de Salvador."
+        },
+        {
+          "quando": "2019",
+          "texto": "O governo da Bahia anuncia 31 empresas em implantação no CIA, com previsão de 4,2 mil novos empregos. Na época, o polo tinha 91 empreendimentos em Simões Filho e 28 em Candeias."
+        },
+        {
+          "quando": "2023",
+          "texto": "O posto do SineBahia no SAC de Simões Filho passa a fazer pesquisa de vagas e encaminhamento para empresas sem agendamento."
+        },
+        {
+          "quando": "2024",
+          "texto": "O governo do estado e a Procia, associação das empresas do CIA, assinam um acordo para a manutenção do polo. O estado anuncia R$ 12,5 milhões para recuperar as vias de acesso e contabiliza cerca de 400 empresas e 15 mil empregos diretos."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "Segundo a Prefeitura, a cidade tem cerca de 200 indústrias e é a 7ª economia da Bahia. Não há dado público sobre quantas dessas vagas são ocupadas por moradores de Simões Filho."
+        }
+      ],
+      "consequencias": [
+        "Acesso a empregos formais e mais estabilidade financeira.",
+        "Chance de trabalhar perto de casa, gastando menos tempo e dinheiro com transporte.",
+        "Mais renda circulando na cidade, o que fortalece o comércio e os serviços locais."
+      ],
+      "responsaveis": [
+        "Secretaria Municipal de Desenvolvimento Econômico (SEDEC)",
+        "SineBahia / SETRE (governo da Bahia)",
+        "Procia (Associação de Empresas do CIA)",
+        "Empresas instaladas no polo",
+        "SDE (governo da Bahia)"
+      ],
+      "acoes": [
+        {
+          "titulo": "Cadastre o currículo no SineBahia",
+          "texto": "No SAC de Simões Filho, a pesquisa de vagas e o encaminhamento para empresas são feitos sem agendamento. Os outros serviços são marcados pelo SAC Digital ou pelo 0800 071 5353.",
+          "link": "https://sacdigital.ba.gov.br"
+        },
+        {
+          "titulo": "Acompanhe as vagas das empresas do CIA",
+          "texto": "Muitas empresas do polo divulgam vagas na seção “Trabalhe Conosco” dos seus sites.",
+          "link": ""
+        },
+        {
+          "titulo": "Busque qualificação gratuita",
+          "texto": "O IFBA de Simões Filho oferece cursos técnicos ligados à indústria, como Mecânica e Eletromecânica. Veja a pauta sobre qualificação profissional.",
+          "link": ""
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "Movimento Econômico (jun/2024): CIA terá R$ 12,5 milhões em melhorias no acesso viário",
+          "url": "https://movimentoeconomico.com.br/estados/bahia/2024/06/09/centro-industrial-de-aratu-tera-r-125-mi-em-melhorias-no-acesso-viario/"
+        },
+        {
+          "nome": "Bahia Notícias (out/2019): governo projeta R$ 4,6 bi e 31 novas empresas no CIA",
+          "url": "https://www.bahianoticias.com.br/noticia/240045-para-reincrementar-cia-governo-projeta-investimento-de-r-46-bi-e-31-novas-empresas"
+        },
+        {
+          "nome": "Governo da Bahia (mar/2023): SineBahia adota atendimento espontâneo nos SACs da RMS",
+          "url": "https://www.ba.gov.br/comunicacao/2023/03/noticias/sinebahia-adota-atendimento-espontaneo-em-postos-sac-da-capital-e-rms-2"
+        },
+        {
+          "nome": "A Tarde (nov/2025): Simões Filho celebra 64 anos",
+          "url": "https://atarde.com.br/bahia/simoes-filho-celebra-64-anos-com-foco-em-desenvolvimento-e-futuro-1367577"
+        }
+      ]
+    },
+    {
+      "id": "qualificacao-profissional-juventude",
+      "tipo": "potencia",
+      "titulo": "Qualificação profissional: cursos gratuitos abrindo portas para a juventude",
+      "local": "IFBA Simões Filho e escolas técnicas da cidade",
+      "resumo": "Simões Filho tem escolas públicas de ensino técnico voltadas para a indústria, como o campus do IFBA e o CEEP Irmã Dulce. A pauta verifica quais cursos estão abertos, quem pode participar e se a formação conversa com as vagas do CIA e das empresas de logística da região.",
+      "pergunta": "De que maneira os programas de qualificação profissional estão preparando os jovens de Simões Filho para as exigências do mercado industrial e tecnológico da região?",
+      "imagem": "",
+      "destaque": false,
+      "atualizado": "2026-10-29",
+      "linha": [
+        {
+          "quando": "2024",
+          "texto": "O Censo Escolar registra no IFBA Simões Filho, no bairro Pitanguinha, cursos técnicos em Eletromecânica, Mecânica, Metalurgia e Petróleo e Gás."
+        },
+        {
+          "quando": "Jun 2024",
+          "texto": "O governo da Bahia anuncia R$ 12,5 milhões para as vias do CIA em cerimônia no CEEP Irmã Dulce, a escola estadual de educação profissional em serviços e processos industriais de Simões Filho."
+        },
+        {
+          "quando": "Ago 2026",
+          "texto": "O IFBA abre a seleção para cursos técnicos gratuitos. Em Simões Filho, há opções no formato integrado, junto com o ensino médio, e subsequente, para quem já concluiu o ensino médio."
+        },
+        {
+          "quando": "Out 2026",
+          "texto": "Prova dos cursos técnicos integrados do IFBA, marcada para 18 de outubro."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "A Prefeitura divulga ações de capacitação para jovens, como a Cápsula de Oportunidades, da Secretaria de Juventude. Não há dado público sobre quantos formados conseguem trabalho na própria cidade."
+        }
+      ],
+      "consequencias": [
+        "Mais chances de conseguir o primeiro emprego ou voltar ao mercado de trabalho.",
+        "Possibilidade de aumentar a renda da família e valorizar a mão de obra jovem.",
+        "Menos vulnerabilidade social, com acesso à educação e ao trabalho."
+      ],
+      "responsaveis": [
+        "Prefeitura de Simões Filho (Secretaria de Juventude e SEDEC)",
+        "IFBA – Campus Simões Filho",
+        "CEEP Irmã Dulce / Secretaria da Educação da Bahia (SEC)",
+        "SENAI Bahia e SENAC Bahia"
+      ],
+      "acoes": [
+        {
+          "titulo": "Fique de olho no edital do IFBA",
+          "texto": "Os cursos são gratuitos. Em 2026, a seleção abriu em agosto, e quem se encaixa nos critérios do edital pôde pedir isenção da taxa de inscrição.",
+          "link": "https://atarde.com.br/educacao/ifba-simoes-filho-abre-inscricoes-para-cursos-tecnicos-1398195"
+        },
+        {
+          "titulo": "Procure o CEEP Irmã Dulce",
+          "texto": "Pergunte na secretaria da escola quais cursos técnicos estão abertos e quando é o período de matrícula.",
+          "link": ""
+        },
+        {
+          "titulo": "Sugira os cursos que a cidade precisa",
+          "texto": "Associações comunitárias podem levar à Prefeitura e às escolas pedidos de cursos ligados às vagas da região, como logística e manutenção industrial.",
+          "link": ""
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "A Tarde (ago/2026): IFBA Simões Filho abre inscrições para cursos técnicos",
+          "url": "https://atarde.com.br/educacao/ifba-simoes-filho-abre-inscricoes-para-cursos-tecnicos-1398195"
+        },
+        {
+          "nome": "Escol.as (Censo Escolar 2024): IFBA Campus Simões Filho",
+          "url": "https://www.escol.as/140077-ifba-campus-simoes-filho"
+        },
+        {
+          "nome": "Bahia Notícias (jun/2024): anúncio de investimento no CIA, feito no CEEP Irmã Dulce",
+          "url": "https://www.bahianoticias.com.br/noticia/292929-governo-da-bahia-investira-125-mi-em-recuperacao-de-vias-de-acesso-ao-centro-industrial-de-aratu"
+        },
+        {
+          "nome": "Prefeitura de Simões Filho: notícias sobre capacitação e juventude",
+          "url": "https://simoesfilho.ba.gov.br/nossas-noticias/"
+        }
+      ]
+    },
+    {
+      "id": "agricultura-familiar-quilombola",
+      "tipo": "potencia",
+      "titulo": "Agricultura familiar e tradição: a força dos produtores rurais e quilombolas",
+      "local": "Quilombo Rio dos Macacos e zona rural",
+      "resumo": "A agricultura familiar gera renda e mantém vivas práticas tradicionais. Em Simões Filho, o Quilombo Rio dos Macacos tem terra titulada desde 2020 e pode acessar as políticas da reforma agrária desde 2023. Desde janeiro de 2026, as escolas também precisam comprar mais alimentos da agricultura familiar, com prioridade para quilombolas. A pauta investiga se essas oportunidades chegam a quem produz na cidade.",
+      "pergunta": "Como a valorização da agricultura familiar e o fortalecimento das feiras comunitárias podem impulsionar a economia das comunidades tradicionais de Simões Filho?",
+      "imagem": "",
+      "destaque": false,
+      "atualizado": "2026-10-29",
+      "linha": [
+        {
+          "quando": "Há mais de 200 anos",
+          "texto": "A comunidade do Rio dos Macacos vive da agricultura, da pesca e do rio. A partir dos anos 1960, com a chegada da Marinha, perde áreas de plantio e o acesso ao rio."
+        },
+        {
+          "quando": "2020",
+          "texto": "O Incra entrega o título coletivo de cerca de 98 hectares à Associação dos Remanescentes de Quilombo Rio dos Macacos. É menos de um terço dos 301 hectares reconhecidos no estudo do território."
+        },
+        {
+          "quando": "Dez 2023",
+          "texto": "O Incra inclui o quilombo no Programa Nacional de Reforma Agrária. As 135 famílias passam a poder acessar as políticas do programa, incluindo apoio à produção."
+        },
+        {
+          "quando": "Mai 2025",
+          "texto": "MPF e MPBA vistoriam as casas de habitação rural construídas pela CAR no quilombo e encontram falhas na fundação e nos pilares."
+        },
+        {
+          "quando": "Jan 2026",
+          "texto": "Entra em vigor a Lei 15.226/2025: no mínimo 45% do dinheiro federal da merenda escolar (PNAE) deve comprar alimentos da agricultura familiar, com prioridade para comunidades quilombolas. Antes, o mínimo era 30%."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "Não há levantamento público de quem produz na zona rural de Simões Filho, onde vende e se a Prefeitura já compra desses agricultores para a merenda."
+        }
+      ],
+      "consequencias": [
+        "Autonomia financeira para agricultores familiares e comunidades tradicionais.",
+        "Alimentos frescos para a população, vendidos direto por quem produz.",
+        "Preservação de saberes, práticas culturais e da relação comunitária com o território.",
+        "Sem estrada própria e sem acesso ao rio, fica mais difícil produzir e levar a produção para vender."
+      ],
+      "responsaveis": [
+        "Associação dos Remanescentes de Quilombo Rio dos Macacos",
+        "Associações de agricultores e moradores",
+        "Prefeitura de Simões Filho (agricultura, meio ambiente e educação)",
+        "Incra",
+        "CAR e SDR (governo da Bahia)"
+      ],
+      "acoes": [
+        {
+          "titulo": "Compre de quem produz aqui",
+          "texto": "Prefira feiras e vendas diretas de agricultores da cidade e divulgue as iniciativas das comunidades.",
+          "link": ""
+        },
+        {
+          "titulo": "Cobre a merenda da agricultura familiar",
+          "texto": "Pergunte à Secretaria de Educação quanto do dinheiro do PNAE vai para produtores locais e quando sai a chamada pública. Pela lei, o mínimo é 45%.",
+          "link": ""
+        },
+        {
+          "titulo": "Peça informação oficial",
+          "texto": "Pela Lei de Acesso à Informação, qualquer pessoa pode perguntar ao Incra quais ações de apoio à produção chegaram ao quilombo, no portal Fala.BR.",
+          "link": "https://falabr.cgu.gov.br"
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "Incra / Agência Gov (dez/2023): quatro comunidades quilombolas são integradas ao PNRA",
+          "url": "https://agenciagov.ebc.com.br/noticias/202312/quatro-comunidades-quilombolas-sao-integradas-ao-programa-de-reforma-agraria"
+        },
+        {
+          "nome": "Comissão Pró-Índio de SP: Terra Quilombola Rio dos Macacos (área titulada)",
+          "url": "https://cpisp.org.br/rio-dos-macacos/"
+        },
+        {
+          "nome": "Alma Preta (jul/2020): quilombo recebe titulação após 50 anos de disputa",
+          "url": "https://almapreta.com.br/sessao/cotidiano/quilombo-na-bahia-recebe-titulacao-apos-50-anos-de-disputa-com-militares/"
+        },
+        {
+          "nome": "Câmara dos Deputados: Lei 15.226/2025 (PNAE)",
+          "url": "https://www2.camara.leg.br/legin/fed/lei/2025/lei-15226-30-setembro-2025-798050-publicacaooriginal-176573-pl.html"
+        },
+        {
+          "nome": "MPF (mai/2025): vistoria das obras de habitação rural no quilombo",
+          "url": "https://www.mpf.mp.br/o-mpf/unidades/pr-ba/noticias/mpba-e-mpf-realizam-vistoria-conjunta-no-quilombo-rio-dos-macacos-para-verificar-obras-de-habitacao-rural"
+        }
+      ]
+    },
+    {
+      "id": "hub-logistico-simoes-filho",
+      "tipo": "potencia",
+      "titulo": "Hub logístico: Simões Filho como ponto estratégico da Bahia",
+      "local": "BR-324, CIA e Porto de Aratu",
+      "resumo": "Simões Filho fica entre a BR-324, que liga Salvador a Feira de Santana, e a Baía de Aratu, onde funciona o Porto de Aratu. Essa posição atrai centros de distribuição e transportadoras. A pauta investiga quantas oportunidades chegam à população e quais impactos as operações logísticas trazem para os bairros.",
+      "pergunta": "De que maneira a posição geográfica de Simões Filho atrai empresas de transporte e distribuição e gera oportunidades para a população?",
+      "imagem": "",
+      "destaque": false,
+      "atualizado": "2026-10-29",
+      "linha": [
+        {
+          "quando": "1975",
+          "texto": "O Porto de Aratu, em Candeias, começa a operar na Baía de Aratu. Hoje é administrado pela Codeba."
+        },
+        {
+          "quando": "2009",
+          "texto": "A ViaBahia assume a concessão da BR-324, principal ligação entre Salvador, Simões Filho e Feira de Santana."
+        },
+        {
+          "quando": "2019",
+          "texto": "Segundo o governo do estado, a Aratu Log investe R$ 137 milhões no CIA e gera 430 empregos diretos."
+        },
+        {
+          "quando": "2022",
+          "texto": "Moradores da Rua Pedro Sobral, no CIA 1, denunciam lama, rachaduras e comércio parado durante as obras de uma empresa de logística. A Prefeitura notifica e multa a empresa."
+        },
+        {
+          "quando": "Mai 2025",
+          "texto": "A ViaBahia devolve a concessão antes do prazo, e o DNIT assume a BR-324 provisoriamente."
+        },
+        {
+          "quando": "Set 2026",
+          "texto": "A ANTT aprova a nova concessão Rota 2 de Julho, para a BR-324 e a BR-116: 30 anos, R$ 14,3 bilhões em investimentos e pedágio eletrônico sem cabine (free flow)."
+        },
+        {
+          "quando": "Hoje",
+          "texto": "O leilão da nova concessão está marcado para 18 de dezembro de 2026."
+        }
+      ],
+      "consequencias": [
+        "Vagas em funções operacionais, administrativas e de transporte.",
+        "Atração de investimentos e mais atividade econômica na cidade.",
+        "Demanda por serviços de apoio, o que abre espaço para o comércio e prestadores locais.",
+        "Obras e tráfego pesado podem danificar casas e ruas próximas, como aconteceu no CIA 1."
+      ],
+      "responsaveis": [
+        "Secretaria Municipal de Desenvolvimento Econômico (SEDEC)",
+        "Empresas de logística, transportadoras e condomínios logísticos",
+        "DNIT (BR-324, até a nova concessão)",
+        "ANTT e Ministério dos Transportes",
+        "Codeba (Porto de Aratu)"
+      ],
+      "acoes": [
+        {
+          "titulo": "Qualifique-se em logística",
+          "texto": "Procure cursos de armazenagem, gestão de estoque e operação de equipamentos, observando os requisitos de cada função.",
+          "link": ""
+        },
+        {
+          "titulo": "Mantenha o currículo no SineBahia",
+          "texto": "Acompanhe as vagas de transporte, frota e logística. No SAC de Simões Filho, a pesquisa de vagas é feita sem agendamento.",
+          "link": "https://sacdigital.ba.gov.br"
+        },
+        {
+          "titulo": "Registre danos causados por obras",
+          "texto": "Rachaduras, lama ou ruas bloqueadas por obras de empresas devem ser comunicadas à Prefeitura, que pode notificar e multar.",
+          "link": ""
+        },
+        {
+          "titulo": "Acompanhe o leilão da BR-324",
+          "texto": "O leilão de 18 de dezembro define quem vai cuidar da rodovia nos próximos 30 anos e como será a cobrança de pedágio.",
+          "link": "https://www.brasilemfolhas.com.br/2026/09/antt-aprova-nova-concessao-para-br-324-e-br-116-na-bahia/"
+        }
+      ],
+      "fontes": [
+        {
+          "nome": "Brasil em Folhas (set/2026): ANTT aprova nova concessão para BR-324 e BR-116",
+          "url": "https://www.brasilemfolhas.com.br/2026/09/antt-aprova-nova-concessao-para-br-324-e-br-116-na-bahia/"
+        },
+        {
+          "nome": "Correio (out/2025): BR-324 ficará sem nova concessionária até 2026",
+          "url": "https://www.correio24horas.com.br/bahia/br-324-ficara-sem-nova-concessionaria-ate-2026-diz-ministerio-dos-transportes-1025"
+        },
+        {
+          "nome": "Jornal Grande Bahia (dez/2025): Porto de Aratu-Candeias completa 50 anos",
+          "url": "https://jornalgrandebahia.com.br/2025/12/porto-de-aratu-candeias-completa-50-anos-e-consolida-papel-estrategico-no-desenvolvimento-logistico-e-economico-do-brasil/"
+        },
+        {
+          "nome": "Jornal Grande Bahia (out/2019): empresas em implantação no CIA devem gerar 4,2 mil empregos",
+          "url": "https://jornalgrandebahia.com.br/2019/10/empresas-em-implantacao-devem-gerar-42-mil-novos-empregos-no-centro-industrial-de-aratu/"
+        },
+        {
+          "nome": "A Tarde (nov/2022): moradores de Simões Filho acusam empresa de logística após estragos",
+          "url": "https://atarde.com.br/portalmunicipios/portalmunicipiosvalesaofrancisco/moradores-de-simoes-filho-acusam-empresa-de-logistica-apos-estragos-1212863"
+        }
+      ]
     }
   ]
 }
